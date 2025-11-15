@@ -8,6 +8,7 @@ The goal is to understand socioeconomic patterns associated with higher income l
 ## Dataset
 **Target Variable:** income_binary (<=50K or >50K)
 
+
 ### Numerical Features:
 - age
 - education-num
@@ -58,17 +59,15 @@ Metrics used for comparison:
 - Both ML models achieved strong ROC-AUC performance
 - Pipelines ensured consistent preprocessing across train/test splits
 
-## Technologies Used
+  ## Technologies Used
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
 - Jupyter Notebook
 
-## Repository Structure
-├── IncomePredictionML.ipynb
-├── data
-│ └── censusData.csv
-└── README.md
+
+
+
 
 
